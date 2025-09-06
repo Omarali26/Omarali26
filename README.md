@@ -1,12 +1,6 @@
-#### Hi there 👋, I’m Omar Ali
+### Hi there 👋, I’m Omar Ali
 
 🚀 AI Engineer | 💻 Full-Stack Developer
-
-### 🛠 Tech Stack
-- Python
-- Flask
-- Laravel
-- React
 
 <!--
 # 📫 How to reach me
