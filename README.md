@@ -3,11 +3,10 @@
 🚀 AI Engineer | 💻 Full-Stack Developer
 
 # 🛠 Tech Stack
-![Python]
-![Flask]
-![Laravel]
-![React]
-
+- Python
+- Flask
+- Laravel
+- React
 
 <!--
 # 📫 How to reach me
