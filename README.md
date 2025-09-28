@@ -1,6 +1,6 @@
 ## Hi there 👋, I’m Omar Ali
 
-🚀 AI Engineer | 💻 Full-Stack Developer
+🚀 AI Engineer | 💻 Junior Full-Stack Developer
 
 <!--
 # 📫 How to reach me
